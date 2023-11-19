@@ -19,7 +19,6 @@
       "ratio": 1.433
     },
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
         "type": "帕梅拉#太极拳#广场舞#健身#演唱会#电影#电视剧#动物世界#沙雕动画",
         "cookie": "https://127.0.0.1:9978/file/Download/tvfan/bili_cookie.txt"
       }},
