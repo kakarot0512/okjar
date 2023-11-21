@@ -6,7 +6,7 @@
     {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"玩偶弹幕版","name":"玩偶哥哥弹幕|4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {
       "token": "https://127.0.0.1:9978/file/Download/tvfan/ali_token.txt",
-      "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json",
+      "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/okcaptain/okjar/rm/wogg.json",
       "danmu" : true
     }},
     {"key":"玩偶表哥弹幕","name":"玩偶表哥弹幕|4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {
